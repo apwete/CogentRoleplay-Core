@@ -1,4 +1,4 @@
-# <Chapter Number Here> Running the Game
+# Running the Game
 
 ## Narration
 

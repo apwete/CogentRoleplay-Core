@@ -1,4 +1,4 @@
-# <Chapter Number Here> Feedback & Support
+# Feedback & Support
 
 ## Acknowledgements
 

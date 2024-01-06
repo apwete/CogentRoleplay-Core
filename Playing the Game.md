@@ -1,4 +1,71 @@
-# <Chapter Number Here> Playing the Game
+# Playing the Game
+
+## Character Creation
+
+### Character Sheet
+
+### Open Character Creation
+
+The Open Character Creation process is the most open method to create new Cogent Characters.  Other methods exist depending on the Story setting you are playing in.  An overview of the process is:
+
+* **Character Identity:** Using a writer's tool, create your Character narratively.
+* **Attributes:** Assign your Attribute Points.
+* **Vocations:** Choose a Vocation, and Specialisations.
+* **Skills:** Assign your Skill Points to Core Skills and Specialisations.
+* **Purchase Equipment:** Assign Commerce Points, and purchase equipment (weapons, armour, tools, etc).
+* **Finishing Touches:** Assign Destiny Points, and Characteristics. Share your Character with your group and Narrator for approval.
+
+#### Character Identity
+
+You are playing a Character in a Story.  **Cogent Roleplay** encourages you to design your Character as if you are a writer, and start first with the Character Concept before moving onto the game rules.  This ensures your Character will be fun to play, and have a great story.
+
+##### Character Concept
+
+Every Story setting has archetypes that are common for that setting.  An example of this is in D&D there are the 5 Character Classes (Fighter, Wizard, Thief, Bard, and Cleric).  Review your Story setting and understand what archetypes exist within the story.  Think about what Stores each archetype can tell, and which appeals to you the most.  Great Characters typically are twists on the original core archetypes (like the Barbarian Class in D&D), do not be afraid to mix things up for your Character.
+
+Write down this Character Concept on your Character Sheet.
+
+##### Elevator Pitch
+
+Now that you have a Character Concept, imagine that you are pitching the idea to a movie/book publisher.  You have only the time it takes an elevator to travel to the publisher's floor (maybe 2 min max) so you need to be clear and engaging.  An example would be,
+> Olga was an orc that was raised in a human town, and never fit in.  One day bandits came to raid her town, and she was there to stop them.  Now Olga is the protector of her town, and she is seeking allies to protect those she loves the most.
+
+Write your elevator Pitch on your Character Sheet.
+
+##### Flesh it Out
+
+Write a short story about your Character, what they did prior to the events of the Story, what their motivations are, and what they want most in life.  Be sure that your short story includes the following:
+
+* Where your Character was born and raised.
+* Any allies and enemies your Character has made along the way.
+* Your Character's "Call to Quest" (the event that set them on the motion to becoming a Character in the Story).
+* Your Character's goal(s) in life (what do they want to be when they grow up?).
+
+#### Attributes
+
+**2 Attribute  Points**
+
+Within TTRPG games, an **Attribute** describes a Character's specific natural characteristic.  **Cogent Roleplay** uses three **Attributes**; **Physical**, **Mental**, and **Social**.
+
+Standard Stories *(see Campaigns in Running the Game)* start with **2 Attribute Points**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **Attribute Points** can be assigned per **Attribute**, only that you have **2 Attribute Points** across all your **Attributes**.
+
+#### Vocations
+
+**1 Vocation**
+
+
+
+#### Skills
+
+**12 Skill Points**
+
+#### Equipment
+
+**3 Commerce Points**
+
+#### Finishing Touches
+
+**3 Destiny Points**
 
 ## Dice Pools
 
@@ -6,33 +73,32 @@ While Cogent is a Story Driven roleplaying game, there are times when a Player c
 
 ### Calculate your Dice Pool
 
-   The number of dice you roll for a given **Dice Pool** is a combination of the following factors:
+The number of dice you roll for a given **Dice Pool** is a combination of the following factors:
 
-
-   * **Base Dice:** 3D6 unless stated otherwise.
-   * **Attribute:** Every *Core Skill*, *Vocation*, and *Vocational Skill* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
-   * **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Vocational Skill*'s *Vocation* to your **Dice Pool**
-   * **Skill:** Add the number of D6 for either the *Core Skill* or *Vocational Skill* to your **Dice Pool**
-   * **Modifiers:** There are several other factors that can add or remove D6 from your **Dice Pool**.  These include but are not limited to; Injuries, Equipment, Environmental Conditions, and/or other factors declared by the Narrator
+* **Base Dice:** 3D6 unless stated otherwise.
+* **Attribute:** Every *Core Skill*, *Vocation*, and *Vocational Skill* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
+* **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Vocational Skill*'s *Vocation* to your **Dice Pool**
+* **Skill:** Add the number of D6 for either the *Core Skill* or *Vocational Skill* to your **Dice Pool**
+* **Modifiers:** There are several other factors that can add or remove D6 from your **Dice Pool**.  These include but are not limited to; Injuries, Equipment, Environmental Conditions, and/or other factors declared by the Narrator
 
 ### Narrator Declares the CL
 
-   Cogent has an associated *Cheetsheet* that is available for Narrators and Players alike.  Within the *Cheetsheet* is the % chance of success for any given **Dice Pool** vs an associated *Challenge Level* (CL).  To calculate the CL, the Narrator will determine the average **Dice Pool** of a Character attempting the same dice roll, and the % chance of success they would have.  Find the corresponding CL and notify the Player.
+Cogent has an associated *Cheetsheet* that is available for Narrators and Players alike.  Within the *Cheetsheet* is the % chance of success for any given **Dice Pool** vs an associated *Challenge Level* (CL).  To calculate the CL, the Narrator will determine the average **Dice Pool** of a Character attempting the same dice roll, and the % chance of success they would have.  Find the corresponding CL and notify the Player.
 
 ### Calculate Narrative Success or Failure
 
-   If a Character has a **Dice Pool** that is greater than the CL, the Character is capable of completing the task at hand.  Making a dice roll determines how well they accomplish the task at hand.  This is determined by calculating *Wins* and *Losses*, and comparing them to the CL.
+If a Character has a **Dice Pool** that is greater than the CL, the Character is capable of completing the task at hand.  Making a dice roll determines how well they accomplish the task at hand.  This is determined by calculating *Wins* and *Losses*, and comparing them to the CL.
 
 
-   * **Wins and Loses**
-     When rolling a D6 if the results is a 4, 5, or 6, then it is considered a **Win**, otherwise it is considered a **Loss**.
-   * **Advantage and Disadvantage**
-     Before making a dice roll, the Narrator may declare that the **Dice Pool** has *Advantage*, or *Disadvantage*.<br/>
-     If the **Dice Pool** has *Advantage*, then a roll of 3, 4, 5, or 6 is considered a **Win**.<br/>
-     If the **Dice Pool** has *Disadvantage*, then a roll of 5, or 6 is considered a **Win**.
-   * **Narrative Success or Failure**
-     Narrative Success is when the Character generates more Wins than the CL.  The Narrator should treat Narrative Successes as strokes of luck (the lock takes less time to pick, the sword found the gap in the armour, the bard is inspired by their muse, etc), with higher Narrative Success being greater strokes of luck.<br/>
-     Narrative Failure is when the Character generates less Wins than the CL.  The Narrator should treat Narrative Success as complications (the lock pick breaks, the sword deflects off the armour, the bard has writer's block, etc) and these complications will hinder the Character, but may or may not prevent them from accomplishing the task.
+* **Wins and Loses**
+  When rolling a D6 if the results is a 4, 5, or 6, then it is considered a **Win**, otherwise it is considered a **Loss**.
+* **Advantage and Disadvantage**
+  Before making a dice roll, the Narrator may declare that the **Dice Pool** has *Advantage*, or *Disadvantage*.<br/>
+  If the **Dice Pool** has *Advantage*, then a roll of 3, 4, 5, or 6 is considered a **Win**.<br/>
+  If the **Dice Pool** has *Disadvantage*, then a roll of 5, or 6 is considered a **Win**.
+* **Narrative Success or Failure**
+  Narrative Success is when the Character generates more Wins than the CL.  The Narrator should treat Narrative Successes as strokes of luck (the lock takes less time to pick, the sword found the gap in the armour, the bard is inspired by their muse, etc), with higher Narrative Success being greater strokes of luck.<br/>
+  Narrative Failure is when the Character generates less Wins than the CL.  The Narrator should treat Narrative Success as complications (the lock pick breaks, the sword deflects off the armour, the bard has writer's block, etc) and these complications will hinder the Character, but may or may not prevent them from accomplishing the task.
 
 *Example*
 
@@ -45,7 +111,7 @@ While Cogent is a Story Driven roleplaying game, there are times when a Player c
 >
 > The fireball lands on the group of goblins and sets them all on fire.  The spell casting was so effective that the heat generated causes Medium Injuries (-2D6 Injury Penalty) to each of the goblins that are on fire.
 
-## Assists and Collaborations
+### Assists and Collaborations
 
 Many hands make quick work.  Within Cogent there are two methods that Characters can help each other out; the first is using *Assists*, and the second is using *Collaborations*.<br/>
 **Assists** are when the results of on Character's dice roll, directly affects another Character's dice roll.  Whenever any Character declares they are making a dice roll, another Character can declare they are making an *Assist*.  They must declare how they are *Assisting*, and the Narrator will set the CL based on how likely the *Assist* will benefit the *Assisted* dice roll.  The Narrator may apply *Narrative Success or Failure* in the following ways:
@@ -67,7 +133,7 @@ Many hands make quick work.  Within Cogent there are two methods that Characters
 > The Narrator states that if 4 Characters of average Athletics were to attempt this lift, it would be possible, but hard.  Looking at the *Cheetsheet*, a **Dice Pool** of 4D6 and a % chance to succeed of 31%, would set a CL 3.  The Narrator tells the group that the Collaboration CL is CL 3x4 or CL 12.<br/>
 > The Adventurers make their rolls and get 3, 2, 2, 3 Wins each for a total of 10 Wins or -2 Narrative Failure.  Since the combined **Dice Pools** of all the Adventurers is greater than the CL, the Narrator states that the portcullis isn't dropped properly when the go under, and each Adventurer gains a -2 Injury Level that can be reduced by armour.
 
-## Scale
+### Scale
 
 There will be times when the Characters face opponents that are larger or smaller than themselves, or they use tools or weapons that greatly increase their ability to manipulate the world around them.  This is called scale. <br/>
 Any Character or Item that has a scale larger or smaller than the standard Player Character (ie human adult size) will be denoted with a scale modifier (either a positive or negative number).  Using the chart below, modify the Narrative Success/Failure accordingly.  

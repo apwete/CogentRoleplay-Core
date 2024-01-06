@@ -1,4 +1,4 @@
-# <Chapter Number Here> Tables & References
+# Tables & References
 
 ## Cogent Cheatsheet
 
