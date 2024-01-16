@@ -52,6 +52,14 @@ All Tabletop Roleplaying games have common terms that are used.  In addition to 
 | Narrator | (aka Game Master, Dungeon Master, or Storyteller) The role a narrator plays in a book, movie, or tv show is filled by this Player.*See **Narrator** Chapter for a list of roles within the Story.*  |
 | Players | ie You.  All the people playing this game, excluding the Narrator.  Players typically only control on Character, referred to as the PC. |
 | Session | (aka Game Session) A*Session* is a single Player meet-up to play Cogent.  *Sessions* take between 1-5 hours. |
-| Skills | Your*Skills* represent all the experience your Character has gathered over their life.  *Skills* are broken into two groups; *Core Skills* and *Vocational Skills*.  *Core Skills* represent the universal abilities of all Characters, while *Vocational Skills* represent the trade specific knowledge a Character will gain.  In the world of biology, *Skills* are the nurture side of nature vs nurture. |
-| Story | A*Story* is a collection of *Sessions*.  Stories should act in a similar way to a TV Episode, or Story Arc, with a set-up, climax, and resolution structure. |
-| Vocations | *Vocations* are bodies of knowledge that closely align to jobs, professions, or careers.  All *Vocations* have a wide range of *Vocational Skills* associated with them, but Players will choose a sub-set of these *Vocational Skills* as their Character's *Vocational* specializations. |
+| Skills | Your *Skills* represents your Character's innate strengths and weaknesses.  In the world of biology, *Skills* are the nurture side of nature vs nurture. |
+| Specialisation | While *Vocations* represent all the base knowledge a Character has been trained in, *Specialisations* represent areas of a *Vocation* that a Character devotes more time and effort into.  Players are encouraged to create new *Specialisations* for their *Vocations* as best fits their Characters. |
+| Story | A *Story* is a collection of *Sessions*.  Stories should act in a similar way to a TV Episode, or Story Arc, with a set-up, climax, and resolution structure. |
+| Vocations | A Character's *Vocation* represents the career training and experience they have developed. |
+
+## What is Included
+
+This **Rulebook** contains the *Core Rules*, or the basic rules that all *Modifications* are built upon.  The rules included here are not intended to be followed exactly, but are to be used as a guide for *Narrators* and *Players* to best tell the *Stories* they want to tell.
+
+The first rule of **Cogent Roleplay**, and the only rule that matters is;
+> The **Story** and **Characters** come first.  Do what work best for them.
