@@ -1,4 +1,5 @@
-<!-- ------------------------------------------------------------------------ --># Playing the Game
+<!-- ------------------------------------------------------------------------ -->
+# Playing the Game
 <!-- ------------------------------------------------------------------------ -->
 The following chapter covers the basic rules that Players will need to play the game.  *Narrators* will have additional rules and tools in the *Running the Game* chapter.
 
