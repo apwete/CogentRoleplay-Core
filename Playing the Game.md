@@ -72,10 +72,13 @@ Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, b
 | Tier | 0 | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **SP** | 4 | 8 | 12 | 16 | 20 | 24 |
+| **Max Skill** | 0 | 1 | 2 | 3 | 4 | 4 |
 
-Within TTRPG games, **Skills** define the strengths and weaknesses of a Character and how they are intended to be played.  **Cogent Roleplay** has 12 **Skills** that are divided between the 4 **Attributes**, and several Player and Setting defined **Specialisations** associated to a Character's **Vocation**.  The 12 **Skills** are; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, and 12.  **Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
+Within TTRPG games, **Skills** define the strengths and weaknesses of a Character and how they are intended to be played.  **Cogent Roleplay** has 12 **Skills** that are divided between the 4 **Attributes**, and several Player and Setting defined **Specialisations** associated to a Character's **Vocation**.  The 12 **Skills** are; 
+<!-- TODO -->
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, and 12.  **Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
 
-Standard Stories *(see Campaigns in Running the Game)* start with **12 Skill Points**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Standard Stories *(see Campaigns in Running the Game)* only allow a maximum of 4 ranks in any given **Skill**, 2 ranks in any given **Specialisation**, no **Specialisation** may exceed their associated **Vocation**, and a Character can only have 1 + **Intelligence** **Vocations** total *(min of 1 Vocation)*.
+Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
 
 #### Equipment
 
@@ -86,7 +89,7 @@ Standard Stories *(see Campaigns in Running the Game)* start with **12 Skill Poi
 
 **Cogent Roleplay** uses **Commerce Points** as a method to track a Character's wealth.  **Commerce Points** are a combined measure of all salaries, inheritances, cash reserves, dept, and other non-tangible resources they can pull on.  
 
-All Characters start with **3 Commerce Points**, but this can be modified with **Quirks of Wealth**.  Standard Stories *(see Campaigns in Running the Game)* may take **1 Quirk of Wealth**.  Taking a **Quirk of Wealth** increases the Character's **Commerce Points** by +1.  All **Quirks of Wealth** come with restrictions that must be applied (or the Character will lose that Quirk and the associated +1 CP).
+Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Commerce Points (CP)**, but this can be modified with **Quirks of Wealth (Quirks)**.  Depending on your starting **Tier** Characters may have a maximum **Quirks**.  Taking a **Quirk of Wealth** increases the Character's **Commerce Points** by +1.  All **Quirks** come with restrictions that must be applied (or the Character will lose that Quirk and the associated +1 CP).
 
 #### Finishing Touches
 
@@ -97,7 +100,7 @@ All Characters start with **3 Commerce Points**, but this can be modified with *
 
 **Cogent Roleplay** has a luck mechanic called **Destiny**.  **Destiny** is applied in two ways, first is the **Destiny Roll** *(covered later in Playing the Game)*, and the second is **Destiny Points**.  **Destiny Points** are used either before or after any **Dice Pool** roll, and directly affect the results of the roll.
 
-All Characters start their **Story** with **3 Destiny Points**, and gain **1 Destiny Point** per Story Chapter (1-3 Sessions).
+Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Destiny Points (Starting Destiny)**, and gain **1 Destiny Point** per Story Chapter (1-3 Sessions), up until the **Maximum Destiny (Max Destiny)**.
 
 After your Character is done, share it with your Narrator and the other Players.  This gives the Group the ability to see your Character for the first time, and provide feedback.
 
