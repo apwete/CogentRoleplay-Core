@@ -9,6 +9,8 @@ The following chapter covers the basic rules that Players will need to play the 
 
 ### Character Sheet
 
+
+
 ### Open Character Creation
 
 The Open Character Creation process is the most open method to create new Cogent Characters.  Other methods exist depending on the Story setting you are playing in.  An overview of the process is:
@@ -52,7 +54,15 @@ Write a short story about your Character, what they did prior to the events of t
 | --- | --- | --- | --- | --- | --- | --- |
 | **AP** | 0 | 1 | 2 | 3 | 4 | 5 |
 
-Within TTRPG games, an **Attribute** describes a Character's specific natural characteristic.  **Cogent Roleplay** uses four **Attributes**; **Strength**, **Relfex**, **Intelligence**, and **Charisma**.
+Within TTRPG games, an **Attribute** describes a Character's specific natural characteristic.  **Cogent Roleplay** uses four **Attributes**; 
+* **Strength (STR):** For interactions that manipulate the physical world.
+  * For every point in **STR** gain +1 Armour Point per Combat
+* **Relfex (RFL):** For interactions to move through the physical world.
+  * For every point in **RFL** gain +1 to Initiative per Combat
+* **Intelligence (INT):** For mental interactions.
+  * For every Point in **INT** gain +1 Vocation
+* **Charisma (CHA):** For social interactions.
+  * For every point in **CHA** gain +1 to min CP
 
 Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
 
@@ -76,8 +86,30 @@ Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, b
 | **Max Skill** | 0 | 1 | 2 | 3 | 4 | 4 |
 
 Within TTRPG games, **Skills** define the strengths and weaknesses of a Character and how they are intended to be played.  **Cogent Roleplay** has 12 **Skills** that are divided between the 4 **Attributes**, and several Player and Setting defined **Specialisations** associated to a Character's **Vocation**.  The 12 **Skills** are; 
+
 <!-- TODO -->
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, and 12.  **Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
+**Strength:**
+* **Athletics:** Changing the world with raw power.  This covers all types of physical activities a Character would expect to overcome (lifting, running, gripping, throwing, etc).
+* **Brawling:** Basic fighting skills.  This covers the most basic ability to punch and kick something.  Also used for intimidation.
+* **Endurance:** "Push through the suck!"  This covers the ability to perform a task, despite the pain and discomfort you are feeling.
+
+**Reflex:**
+* **Dexterity:** Balance and Coordination.  This covers all types of physical activities that require fine motor control, balance, and coordination (parkour, tight rope walking, working with small delicate objects, etc)
+* **Perception:** Sensing.  This covers being able to react to events as they occur, and understand threats as they happen.
+* **Stealth:** Sneaking.  This is the fine balance between not being detected, while moving towards an objective.
+
+**Intelligence:**
+* **XXXXX:** 
+* **XXXXX:** 
+* **XXXXX:** 
+
+**Charisma:**
+* **Deception:** Lying.  This covers all manner of lies including telling lies, with holding the truth, and misdirection.
+* **Intuition:** Sense motives.  The ability to understand another Characters motivations and intentions.  Used to better help or hinder others.
+* **Persuasion:** Negotiations.  The ability to change another Character's point of view towards your point of view.  Also used in barter, and contract negotiations.
+<!-- TODO -->
+
+**Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
 
 Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
 
