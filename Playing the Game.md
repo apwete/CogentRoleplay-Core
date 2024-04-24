@@ -87,7 +87,6 @@ Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, b
 
 Within TTRPG games, **Skills** define the strengths and weaknesses of a Character and how they are intended to be played.  **Cogent Roleplay** has 12 **Skills** that are divided between the 4 **Attributes**, and several Player and Setting defined **Specialisations** associated to a Character's **Vocation**.  The 12 **Skills** are; 
 
-<!-- TODO -->
 **Strength:**
 * **Athletics:** Changing the world with raw power.  This covers all types of physical activities a Character would expect to overcome (lifting, running, gripping, throwing, etc).
 * **Brawling:** Basic fighting skills.  This covers the most basic ability to punch and kick something.  Also used for intimidation.
@@ -99,15 +98,14 @@ Within TTRPG games, **Skills** define the strengths and weaknesses of a Characte
 * **Stealth:** Sneaking.  This is the fine balance between not being detected, while moving towards an objective.
 
 **Intelligence:**
-* **XXXXX:** 
-* **XXXXX:** 
-* **XXXXX:** 
+* **Crafting:** Both the construction and understanding of mechanical devices.  This covers all activites to understand, repair, and replicate simple devices.  More complex devices require Specialisations to understand and manipulate.
+* **General Knowledge:** The ability to recall past experiences, and apply them to the current situation.  General Knowledge differes from Vocational Knowledge in that General Knowledge is less concerned on why something works, and more on how it worked.  As an example, an old woman would know that her acking bones meant it was about to rain (General Knowledge) while a meterologist would know that a drop in air pressure meant a storm front was coming (Vocational Knowledge).
+* **Reasoning:** The ability to take evidence, and turn it into knowledge.  This includes solving puzzles, deducing hidden meaning behind a saying, or seeing connections between two points of evidence.
 
 **Charisma:**
 * **Deception:** Lying.  This covers all manner of lies including telling lies, with holding the truth, and misdirection.
 * **Intuition:** Sense motives.  The ability to understand another Characters motivations and intentions.  Used to better help or hinder others.
 * **Persuasion:** Negotiations.  The ability to change another Character's point of view towards your point of view.  Also used in barter, and contract negotiations.
-<!-- TODO -->
 
 **Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
 
@@ -146,7 +144,7 @@ Every Character in a Story is expected to have a Narrative Arc.  Each Character 
 A typical **Cogent Roleplay** campaign is broken into four parts (Campaign, Story Arcs, Chapters, and Scenes).  Character can expect (but are not entitled to) the following reward per campaign part:
 * **Scene:** Typically no reward
 * **Chapter:** Some Characters may receive **+1 Skill Point** for significant Character Growth.
-* **Story Arc:** Typically all Characters increase their **Tier** by one level.
+* **Story:** Typically all Characters increase their **Tier** by one level.
 * **Campaign:** Typically this is the end of the Story and their are no rewards.  However all Campaign Characters should become Legends within the Setting.
 
 There are six **Tiers** within **Cogent Roleplay**.  The Players and Narrator will agree on the **Tier** for the Story before **Character Creation**.  Most One-Shot Stories will be set at **Tier 2 - Adventurer**.
