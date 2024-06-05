@@ -56,13 +56,9 @@ Write a short story about your Character, what they did prior to the events of t
 
 Within TTRPG games, an **Attribute** describes a Character's specific natural characteristic.  **Cogent Roleplay** uses four **Attributes**; 
 * **Strength (STR):** For interactions that manipulate the physical world.
-  * For every point in **STR** gain +1 Armour Point per Combat
 * **Relfex (RFL):** For interactions to move through the physical world.
-  * For every point in **RFL** gain +1 to Initiative per Combat
 * **Intelligence (INT):** For mental interactions.
-  * For every Point in **INT** gain +1 Vocation
 * **Charisma (CHA):** For social interactions.
-  * For every point in **CHA** gain +1 to min CP
 
 Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
 
@@ -198,7 +194,6 @@ Cogent has an associated *Cheetsheet* that is available for Narrators and Player
 ### Calculate Narrative Success or Failure
 
 If a Character has a **Dice Pool** that is greater than the CL, the Character is capable of completing the task at hand.  Making a dice roll determines how well they accomplish the task at hand.  This is determined by calculating *Wins* and *Losses*, and comparing them to the CL.
-
 
 * **Wins and Loses**
   When rolling a D6 if the results is a 4, 5, or 6, then it is considered a **Win**, otherwise it is considered a **Loss**.
