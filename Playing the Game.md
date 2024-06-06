@@ -8,12 +8,11 @@ The following chapter covers the basic rules that Players will need to play the 
 <!-- ------------------------------------------------------------------------ -->
 
 ### Character Sheet
+<!-- Put Character Sheet Here -->
 
+### Character Creation
 
-
-### Open Character Creation
-
-The Open Character Creation process is the most open method to create new Cogent Characters.  Other methods exist depending on the Story setting you are playing in.  An overview of the process is:
+The Character Creation process is the standard method to create new Cogent Characters.  There will be other Character Creation methods that will be introduced in specific Settings and Stories, but all methods are compatible with the standard method.  An overview of the process is:
 
 * **Character Identity:** Using a writer's tool, create your Character narratively.
 * **Attributes:** Assign your Attribute Points.
@@ -60,7 +59,7 @@ Within TTRPG games, an **Attribute** describes a Character's specific natural ch
 * **Intelligence (INT):** For mental interactions.
 * **Charisma (CHA):** For social interactions.
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Attribute Points (AP)**.  These can be assigned to any of the **Attributes**.  There are no restrictions on how many **AP** can be assigned per **Attribute**, only that you have a limited number of **AP** across all your **Attributes**.
 
 #### Vocations
 
@@ -69,9 +68,9 @@ Depending on your starting **Tier** of play *(see **Tier Progression**)* use the
 | **VP** | 0 | 0 | 1 | 1 | 2 | 2 |
 | **Max VP** | 0 | 1 | 2 | 3 | 4 | 4 |
 
-Within **Cogent Roleplay**, **Vocations** fill the same role as Archetypes or Classes.  They are the profession your Character has been trained in.  It is assumed that your Character knows all the essentials of your **Vocation** to the level they are currently trained to (Apprentice for 1 rank, Journeyman fo 2 ranks, Tradesmen for 3 ranks, and Master for 4 ranks).
+Within **Cogent Roleplay**, **Vocations** fill the same role as Archetypes or Classes in other TTRPGs.  They are the profession your Character has been trained in.  It is assumed that your Character knows all the essentials of your **Vocation** to the level they are currently trained to (Apprentice for 1 rank, Journeyman fo 2 ranks, Tradesmen for 3 ranks, and Master for 4 ranks).
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Vocation Points (VP)**.  These can only be assigned to **Vocation** ranks, and can not be used for Skills, or Specialisations.  Depending on your starting **Tier** of play, Characters can only have a maximum **VP** per **Vocation**, and a Character can only have 1 + **Intelligence** **Vocations** total *(min of 1 Vocation)*.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Vocation Points (VP)**.  These can only be assigned to **Vocation** ranks, and can not be used for Skills, or Specialisations.  Depending on your starting **Tier** of play, Characters can only have a maximum **VP** per **Vocation**.  
 Characters will be allowed to use **Skill Points (SP)** as **VP** at any time, but the restriction for the maximum **VP** per **Vocation** remains.
 
 #### Skills
@@ -105,7 +104,7 @@ Within TTRPG games, **Skills** define the strengths and weaknesses of a Characte
 
 **Specialisations** will either be defined in the **Story Setting** *(Ask your Narrator)*, or they can be defined by the Player.  **Specialisations** need to be closely related to your **Vocation** but define how your Character expresses their **Vocation**.  
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Skill Points (SP)**.  These can be assigned to **Skills**, **Specialisations**, or **Vocations**.  Depending on your starting **Tier** of play, Character can only have a maximum **SP** per **Skill**, and no **Specialisation** may exceed their associated **Vocation**.
 
 #### Equipment
 
@@ -116,7 +115,32 @@ Depending on your starting **Tier** of play *(see **Tier Progression**)* use the
 
 **Cogent Roleplay** uses **Commerce Points** as a method to track a Character's wealth.  **Commerce Points** are a combined measure of all salaries, inheritances, cash reserves, dept, and other non-tangible resources they can pull on.  
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Commerce Points (CP)**, but this can be modified with **Quirks of Wealth (Quirks)**.  Depending on your starting **Tier** Characters may have a maximum **Quirks**.  Taking a **Quirk of Wealth** increases the Character's **Commerce Points** by +1.  All **Quirks** come with restrictions that must be applied (or the Character will lose that Quirk and the associated +1 CP).
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Commerce Points (CP)**, but this can be modified with **Quirks of Wealth (Quirks)**.  Depending on your starting **Tier** Characters may have a maximum **Quirks**.  Taking a **Quirk of Wealth** increases the Character's **Commerce Points** by +1.  All **Quirks** come with restrictions that must be applied (or the Character will lose that Quirk and the associated +1 CP).
+
+##### Quirks of Wealth
+
+| **Quirk** | **Restriction** |
+| --- | --- |
+| Scrooge | You will not spend a cent on anyone except yourself. |
+| Patron | You are supported by a patron, and can not refuse their requests. |
+| Expensive Tastes | There is an aspect of your life where you will not accept anything but the best (Food, wine, lodging, etc). |
+| Philanthropist | You are extremely charitable to those in need (even at your detriment). |
+| Loan Shark | You owe money to a person or group that expects a full return on their investment (including interest).  No exceptions. |
+| Hidden Price | You got your wealth by offering a favour. |
+| Tight Pursed | You will always seek the cheapest option whenever possible. |
+| Blood Money | Your wealth comes from the many skeletons in your closet. |
+| Family Ties | Your money is controlled by the head of the family. |
+| Fame | You are a celebrity and your fame grants you gifts whereever you go, but at the cost of privacy. |
+| Debt | Your wealth is due to unpaid debt.  You must pay off the interest or risk losing your CP. |
+| Stolen | You gained your wealth by stealling it.  Someone will very much want it back. |
+| Elitist | You treat people with lower CP as inferior to you. |
+| Ladder Climber | You have clawed your way up in this world by sucking up to those with higher CP than you. |
+| Sugar Daddy/Momma | You use money as a means to show affection, buying love from those you find attractive. |
+| Monopoly | You have cornered the market in a niche business.  As long as you maintain your monopoly, you will maintain your CP. |
+| Unethical Business | Your wealth was earned on the blood, sweat, and tears of others.  Is that union talk I hear? |
+| Blackmail | Your wealth comes from hush money from a wealthy "benefactor". |
+| Risky Investor | You have a habit of investing in risky opportunities.  So far it has paid off for you. |
+| Employees | You have employees that work for you.  If you do not support their CP, you will lose your CP. |
 
 #### Finishing Touches
 
@@ -127,7 +151,7 @@ Depending on your starting **Tier** of play *(see **Tier Progression**)* use the
 
 **Cogent Roleplay** has a luck mechanic called **Destiny**.  **Destiny** is applied in two ways, first is the **Destiny Roll** *(covered later in Playing the Game)*, and the second is **Destiny Points**.  **Destiny Points** are used either before or after any **Dice Pool** roll, and directly affect the results of the roll.
 
-Depending on your starting **Tier** of play *(see **Tier Progression**)* use the table above to determine your staring **Destiny Points (Starting Destiny)**, and gain **1 Destiny Point** per Story Chapter (1-3 Sessions), up until the **Maximum Destiny (Max Destiny)**.
+Depending on your starting **Tier** of play *(see **[Tier Progression](#tier-progression)**)* use the table above to determine your staring **Destiny Points (Starting Destiny)**, and gain **1 Destiny Point** per Story Chapter (1-3 Sessions), up until the **Maximum Destiny (Max Destiny)**.
 
 After your Character is done, share it with your Narrator and the other Players.  This gives the Group the ability to see your Character for the first time, and provide feedback.
 
@@ -137,7 +161,7 @@ After your Character is done, share it with your Narrator and the other Players.
 
 Every Character in a Story is expected to have a Narrative Arc.  Each Character is expected to learn and grow from their experiences, and eventually develop into the idealised version of themselves.  While the Story itself will cover each Character's Narrative Arc through gameplay, **Tier Progression** covers the mechanics of experience and growth.
 
-A typical **Cogent Roleplay** campaign is broken into four parts (Campaign, Story Arcs, Chapters, and Scenes).  Character can expect (but are not entitled to) the following reward per campaign part:
+A typical **Cogent Roleplay** campaign is broken into four parts (Campaign, Story Arcs, Chapters, and Scenes) *(see **[Story Structure](/Running%20the%20Game.md/#story-structure)**)*.  Character can expect (but are not entitled to) the following reward per campaign part:
 * **Scene:** Typically no reward
 * **Chapter:** Some Characters may receive **+1 Skill Point** for significant Character Growth.
 * **Story:** Typically all Characters increase their **Tier** by one level.
