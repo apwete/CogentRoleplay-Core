@@ -213,7 +213,19 @@ The number of dice you roll for a given **Dice Pool** is a combination of the fo
 
 ### Narrator Declares the CL
 
-Cogent has an associated *Cheetsheet* that is available for Narrators and Players alike.  Within the *Cheetsheet* is the % chance of success for any given **Dice Pool** vs an associated *Challenge Level* (CL).  To calculate the CL, the Narrator will determine the average **Dice Pool** of a Character attempting the same dice roll, and the % chance of success they would have.  Find the corresponding CL and notify the Player.
+A *Challenge Level* (CL) is a representation of the difficulty of the a Dice Roll.  All Dice Rolls that are attempted succeed (regardless of the dice roll), however rolling poorly has consequences to future rolls and will raise the stakes in a Story.  Based on Dice Probability, the typical CLs you will see are:
+
+| **CL** | **Description** |
+| --- | --- |
+| 0 | Called an Open Roll.  This is a Dice Roll with no chance of consequences. |
+| 1 | Low Risk.  This is a Dice Roll with little chance of consequences. |
+| 2 | Lower Risk.  This is a Dice Roll with some chance of consequences. |
+| 3 | Standard Risk.  Most roles will have a 3CL rating.  This Dice Roll has an average risk of consequences. |
+| 4 | Higher Risk.  This is a Dice Roll with a higher chance of consequences. |
+| 5 | High Risk.  This is a Dice Roll with likely chance of consequences. |
+| 6 | Critical Risk.  Any CL greater than CL5 has an almost certan likelyhood of consequences. |
+
+The consequences from a Dice Roll will varry from Dice Roll to Dice Roll, but will be relevant to the Action being performed.  The Narrator may indicate possible consequences to the Player prior to a Dice Roll.
 
 ### Calculate Narrative Success or Failure
 
@@ -227,7 +239,7 @@ If a Character has a **Dice Pool** that is greater than the CL, the Character is
   If the **Dice Pool** has *Disadvantage*, then a roll of 5, or 6 is considered a **Win**.
 * **Narrative Success or Failure**
   Narrative Success is when the Character generates more Wins than the CL.  The Narrator should treat Narrative Successes as strokes of luck (the lock takes less time to pick, the sword found the gap in the armour, the bard is inspired by their muse, etc), with higher Narrative Success being greater strokes of luck.<br/>
-  Narrative Failure is when the Character generates less Wins than the CL.  The Narrator should treat Narrative Success as complications (the lock pick breaks, the sword deflects off the armour, the bard has writer's block, etc) and these complications will hinder the Character, but may or may not prevent them from accomplishing the task.
+  Narrative Failure is when the Character generates less Wins than the CL.  The Narrator should treat Narrative Success as complications (the lock pick breaks, the sword deflects off the armour, the bard has writer's block, etc) and these complications will hinder the Character, but will not prevent them from accomplishing the task.
 
 *Example*
 
