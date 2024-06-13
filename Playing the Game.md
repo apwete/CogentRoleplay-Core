@@ -283,19 +283,20 @@ Any Character or Item that has a scale larger or smaller than the standard Playe
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Result Adjustment** | +15 | +11 | +8 | +5 | +3 | +1 | +0 | -1 | -3 | -5 | -8 | -11 | -15 |
 
-If two or more Characters have a scale modifier, adjust the scale modifiers for both Characters so that the smaller scale modifier is 0.
+If two or more Characters have a scale modifier, adjust the scale modifiers for both Characters so that the smaller scale modifier is 0.  Only the results of the Dice Roll are modified, and Narrative Successes can not be turned into Narrative Failures (and vice versa).
 
 *Example*
 
 > An Ogre (+1 Scale) is trying to smash a Pixie (-1 Scale).  
-> The Narrator adjusts the scale modifier for the Ogre to be +2 Scale, and the scale of the Pixie to be 0 Scale.
-> The Ogre rolls Narrative Success of 0 and adds the +2 Scale modifier to get a total of Narrative Success of 4 (Level 4 Injury before Armour).
+> The Narrator adjusts the scale modifier for the Ogre to be +2 Scale, and the scale of the Pixie to be 0 Scale (setting the smaller scale to 0).
+> The Ogre rolls Narrative Success of 0 and adds the +2 Scale modifier to get a total of Narrative Success of 2 (Level 2 Injury before Armour).
+> The Pixie rolls a Narrative Success of 1 and subtracts the +2 Scale modifier to get a total Narrative Success of 0 (Narrative Success can not be turned to Narrative Failure) and deals a Level 0 Injury before Armour.
 
 ## Destiny
 
 ### Destiny Points
 
-All Characters start with 3 Destiny Points at the beginning of every Story, and get 1 Destiny Point per Chapter (1-3 sessions) of the Story.  Destiny Points are the mechanism for Players to "Spend Luck" during any Dice Roll.  There are two times that Destiny Points may be used, either before or after a Dice Roll.
+All Characters start with a number Destiny Points at the beginning of every Story based on the Tier of play, and get 1 Destiny Point per Chapter (1-3 sessions) of the Story, to a maximum as defined by the Tier.  Destiny Points are the mechanism for Players to "Spend Luck" during any Dice Roll.  There are two times that Destiny Points may be used, either before or after a Dice Roll.
 
 **Before a Dice Roll**
 
@@ -326,11 +327,10 @@ All **Destiny Rolls** are done with 1D20.  The CL for the **Destiny Roll** is ba
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **CL** | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 |
 
-The dice roll for the **Destiny Roll** must be equal or greater than the CL for the roll.
+The dice roll for the **Destiny Roll** must be equal or greater than the CL for the roll.  **Destiny Rolls** are mostly used by *Narrators* when the Actions of *NPCs* do not directly affect the *Players*.  This greatly speeds up gameplay and alows the story to move forward.
 
 *Example*
 
 > King John's men are traveling through Sherwood Forest with the latest taxes.  They know that Robin Hood and his Merry Men are planning to ambush the convoy, but King John's men have devised several new paths through the forest.<br/>
 > The Narrator states that there is roughly a 75% chance that King John's men will hit one of the Merry Men's ambush points, but instead of rolling multiple navigation and perception skill checks, the Narrator decides to do a **Destiny Roll** instead.<br/>
 > Since the Players are part of the Merry Men, the Narrator sets the CL at 16 (100% - 75% = 25%) and rolls 13 or a Narrative Failure of -3.  The convoy rolls right into the ambush, but their agitated state means they were not fully caught unaware.
-

@@ -5,6 +5,7 @@ This chapter is less of rules that Narrators must follow, and more of a toolbox 
 ## Story Structure
 
 **Cogent Roleplay** attempts to follow the structure and flow you will find in book series, TV shows, or plays.  Most *Campaigns* (a collection of *Stories*) will follow (loosely) the following structure:
+
 * **Campaign:** This is the the whole collective story the Players and their Characters engage in.  It is similar to the entire book series, then entire TV show (all seasons), or the full collection of related plays.  *Campaigns* typically take years to complete.
 * **Story:** *Campaigns* are broken into *Story*.  Each *Story* could act as an independent *Campaign*, or build on other *Story* to tell a grand overarching narrative.  It is similar to a single book in the series, a single season of a TV show, or a single play.  *Story* will take anywhere between 1 month, to 1 year to complete.
 * **Act:** To make telling *Stories* easier, *Chapters* are grouped into *Acts*.  *Acts* are similar to Acts in a play in that they break up the *Story* into logical narrative parts.  They have no game play impact and are only used by *Narrators* to make planning *Stories* and *Campaigns* easier.
@@ -21,7 +22,14 @@ A Combat Encounter is a Scene where violence between two or more Characters is o
 
 <!-- TODO -->
 
-1. **Determine Initiative:** Using METHOD NAME to determine each Character's Initiative value, order this list in ascending order (smallest to largest).
+1. **Determine Initiative:** Depending on the Character's initial condition at the begining of the Combat Round will determine what Attribute they use for Initiative.
+
+   * **Strength** if fatigue is the most important factor.
+   * **Reflex** if surprise and reaction time is the most important factor.
+   * **Intelligence** if tactics are the most important factor.
+   * **Charisma** if social or emotional manipulation is the most important factor.
+
+   Initiative is set with the **lowest** Initiative going first, and the **highest** Initative going last.
 2. **Declare Actions:** Starting from the top of the Initiative List, each Character declares what their Character wishes to accomplish this round.  Characters can make Declarations that will interfere with a previously stated Declaration.
 3. **Make your Combat Roll:** All Characters determine their Combat Roll, and make their roll at the same time.
 4. **Outcome:** Using the Declarations as a guide, the Narrator will state what the outcome of the Combat Rolls are.  
