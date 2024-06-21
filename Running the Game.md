@@ -14,7 +14,48 @@ This chapter is less of rules that Narrators must follow, and more of a toolbox 
 
 ## Narration
 
-The role of the Narrator is to facilitate the flow of the Story.  You are there to ensure the Characters have the opportunity to play their part in the grand narrative, and that everyone collaborates in the creation of the Story.  
+The role of the Narrator is to facilitate the flow of the Story.  You are there to ensure the Characters have the opportunity to play their part in the grand narrative, and that everyone collaborates in the creation of the Story.  The following section details the various tools you will need to employ to help with Narration.  Later sections will cover ways to combine those tools in your Stories.
+
+<!-- Narrator Tools -->
+### Actions
+
+An Action is initiatied by a Player and will likely result in their Character having to make a Dice Roll.  The following rules apply to Actions:
+
+* If the Dice Pool for a Dice Roll is greater than the CL for the Action, the Action is successful.
+  * Narrative Failure does not make an Action unsuccessful, just costly, complicated, and/or with unforseen consequences.
+* A Narrator must tell the Player if the Action is impossible (ie the Dice Pool is equal or smaller than the CL).
+* All Actions must be declared before a Dice Roll is performed.
+  * Initiative is used to allow Characters to target another Character's Actions.
+* Once declared, an Action can not be changed.  The Character will attempt the Action (even if impossible).
+
+### Initiaitve
+
+Unlike other TTRPGs, Cogent Roleplay uses a reverse order Initiative.  This is because Characters can not change Actions after they are declared, and Characters can target another Character's declared Action as part of their Action.  There are four ways to determine a Character's Initiative score:
+
+1. **Attritional Initiative:** The Character is attempting to both endure the challenges they are facing, and are relying on musle memory to drive their Actions.
+   * These Characters use their STR score as their Initiative.
+2. **Reactive Initiative:** The Character is relying heavily on their senses to react to threats and drive their Actions.
+   * These Characters use their RFL score as their Initiative.
+3. **Tactical Initiative:** The Character is analysing the situation, and devising strategies to counter their opponents.
+   * These Characters use their INT score as their Initiative.
+4. **Manipulative Initiative:** The Character is attempting to control the emotional state of their opponents in better to gain an advantage in the situation.
+   * These Characters use their CHA score as their Initiative.
+
+#### Running Initiative
+
+1. Determine each Character's Initiative.
+   * Not every Character will use the same type of Initiative at the same time.
+   * The Initiative type may change in an Encounter based on all the Character's Actions.
+2. Starting with the Character with the smallest Initiative, have the Player declare their Action.
+   * If two or more Characters have a tied Initiative, have each Player declare their Actions one at a time, then follow up with the NPC's Actions.
+   * Consider all Characters with the same Initiative to have declared their Actions at the same time (ie they can not target each other's Actions).
+3. Have each Player determine their Character's Dice Pool, and make their Dice Roll.
+4. Gather all the results and declare the outcome of the Initiative round.
+5. Repeat until Initiative is no longer necessary.
+
+## Encounters
+
+This section covers the various ways you can use the Narrator tools to run your games.
 
 ### Combat Encounters
 
