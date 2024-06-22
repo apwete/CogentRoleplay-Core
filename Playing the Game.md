@@ -3,7 +3,7 @@
 <!-- ------------------------------------------------------------------------ -->
 The following chapter covers the basic rules that Players will need to play the game.  *Narrators* will have additional rules and tools in the *Running the Game* chapter.
 
-The first and most important rule of *Cogent Roleplay* is; if any rule interfears with the Players' and Narrator's ability to tell the Story, the rules should be put aside or modified at that time.  The rules are intended to facilitate the telling of the Story.
+The first and most important rule of *Cogent Roleplay* is; **The Story Comes First!**  If at any time these rules will intefere with the Players and Narrator from collaboratively telling the Story, put the rules aside and tell the Story.  These rules are guidelines to help you tell the Story.
 
 <!-- ------------------------------------------------------------------------ -->
 ## Character Creation
@@ -164,6 +164,7 @@ After your Character is done, share it with your Narrator and the other Players.
 Every Character in a Story is expected to have a Narrative Arc.  Each Character is expected to learn and grow from their experiences, and eventually develop into the idealised version of themselves.  While the Story itself will cover each Character's Narrative Arc through gameplay, **Tier Progression** covers the mechanics of experience and growth.
 
 A typical **Cogent Roleplay** campaign is broken into four parts (Campaign, Story Arcs, Chapters, and Scenes) *(see **[Story Structure](/Running%20the%20Game.md/#story-structure)**)*.  Character can expect (but are not entitled to) the following reward per campaign part:
+
 * **Scene:** Typically no reward
 * **Chapter:** Some Characters may receive **+1 Skill Point** for significant Character Growth.
 * **Story:** Typically all Characters increase their **Tier** by one level.
@@ -192,10 +193,10 @@ The following chart details the **Character Creation** resources the Player will
 | 3 | 3 | 1 | 16 | 3 | 3 | 4 | 2/4 |
 | 4 | 4 | 2 | 20 | 4 | 4 | 5 | 3/5 |
 | 5 | 5 | 2 | 24 | 4 | 4 | 6 | 5/5 |
-| +1 | +1 | +0.5 | +4 | * | * | +1 | * |
+<!-- | +1 | +1 | +0.5 | +4 | * | * | +1 | * |
 
-* The last row indicates when a Character moves up a **Tier**.  Only apply whole values (ie if you move from 1 to 1.5 your value is still 1).
-* Where there is a * value, apply the **Character Creation** value for the new **Tier** the Character has achieved (ie Tier 3 Max Skill = 3).
+* The last row indicates when a Character moves up a **Tier**.  Only apply whole values (ie if you move from 1 to 1.5 the game value used is 1, or rounded down).
+* Where there is a * value, apply the **Character Creation** value for the new **Tier** the Character has achieved (ie Tier 3 Max Skill = 3). -->
 
 <!-- ------------------------------------------------------------------------ -->
 ## Dice Pools
@@ -208,8 +209,8 @@ While Cogent is a Story Driven roleplaying game, there are times when a Player c
 The number of dice you roll for a given **Dice Pool** is a combination of the following factors:
 
 * **Base Dice:** 3D6 unless stated otherwise.
-* **Attribute:** Every *Core Skill*, *Vocation*, and *Vocational Skill* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
-* **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Vocational Skill*'s *Vocation* to your **Dice Pool**
+* **Attribute:** Every *Core Skill*, *Vocation*, and *Specialisation* has an associated *Attribute*.  Add this many D6 to your **Dice Pool**
+* **Vocation:** If you are making a *Core Skill* roll, this will be 0D6, otherwise add the number of D6 for the *Specialisation*'s *Vocation* to your **Dice Pool**
 * **Skill:** Add the number of D6 for either the *Core Skill* or *Specialisation* to your **Dice Pool**
 * **Modifiers:** There are several other factors that can add or remove D6 from your **Dice Pool**.  These include but are not limited to; Injuries, Equipment, Environmental Conditions, and/or other factors declared by the Narrator
 
@@ -245,7 +246,7 @@ If a Character has a **Dice Pool** that is greater than the CL, the Character is
 
 *Example*
 
-> Erin the Mage wants to strategically cast a fireball into a group of goblins.  The Narrator determines that they will need to roll a Sorcery Vocational skill check.
+> Erin the Mage wants to strategically cast a fireball into a group of goblins.  The Narrator determines that they will need to roll a Sorcery Specialisation check.
 >
 > * Erin's Player calculates Erin's **Dice Pool** as 5D6.  3D6 (Base) + 1D6 (Intelligence) + 1D6 (Mage Vocation) + 1D6 (Sorcery)
 > * The Narrator reminds Erin's Player about their *Wand of Power* and tells them to add +1D6 to their **Dice Pool** for a total of 6D6.  Further to this, the Narrator tells them that the goblins are completely unaware of Erin's presence and they have *Advantage* on their **Dice Pool**.
