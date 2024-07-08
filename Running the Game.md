@@ -79,6 +79,16 @@ Each Win below the CL is considered a Narrative Failure.  It is important to rei
 * Increase the CP cost for an item or service
 * Change your attitude or emotion because of your Action (That's not a good sound...)
 
+### Injury Levels and Healing
+
+When a Character takes damage they are given injuries.  Injuries are broken into three elements, an injury name, the injury category (Scrapes, Injuries, Wounds, and Trauma), and an injury Level (from 0-5).  Injuries have the following format:
+
+[Name] [injury level] [penalty] *(example: Deep slash, Lvl 3, -3D6)*
+
+#### Injury Category
+
+<!-- TODO -->
+
 ### Destiny Rolls
 
 Destiny Rolls should be used to quickly resolve situations outside the control of the Players.  All Destiny Rolls use 1D20, and should be made in open with the impact being described to the Players.
@@ -103,51 +113,44 @@ This section covers the various ways you can use the Narrator tools to run your 
 
 ### Combat Encounters
 
-A Combat Encounter is a Scene where violence between two or more Characters is occurring.  To manage the opposed interactions in a Combat Encounter, the following structure is typically used:
+Combat is when two or more Characters are attempting to use violence in an encounter.  Combat pimarity uses Initiative as the core mechanic.  Narrators should consider the additional components.
 
-<!-- TODO -->
+#### Combat Range
 
-1. **Determine Initiative:** Depending on the Character's initial condition at the begining of the Combat Round will determine what Attribute they use for Initiative.
+Combat Ranges are not absolute distances, but effective engagement ranges.  There are five combat ranges:
 
-   * **Strength** if fatigue is the most important factor.
-   * **Reflex** if surprise and reaction time is the most important factor.
-   * **Intelligence** if tactics are the most important factor.
-   * **Charisma** if social or emotional manipulation is the most important factor.
+* **Grapple:** When two or more Characters are in physical contact with each other.  Unless stated otherwise, weapons designed to be used at Thrown, Ranged, or Artillery range, can not be used in grapple range.
+* **Melee:** When two or more Characters can easily hit each other with a couple of steps (typically within the same room of a building).  
+* **Thrown:** The typcial distance that a Character can throw a rock, spear, or dart effectively (typically within 50 yards/meters).  
+* **Ranged:** The effective range of a non-thrown weapon (bow, firearm, sling, etc), where distinguishing features can still be made out (typcially within 100 yards/meters).  At this range and beyond, melee and grapple weapons can not be used.
+* **Artillery:** Any distance beyond Ranged range is considered Artillery.  Weapons that are effective at this range typcially use spotters (Assist Action), technology (scopes), or magic (scrying) in order to lock onto a target and hit them.
 
-   Initiative is set with the **lowest** Initiative going first, and the **highest** Initative going last.
-2. **Declare Actions:** Starting from the top of the Initiative List, each Character declares what their Character wishes to accomplish this round.  Characters can make Declarations that will interfere with a previously stated Declaration.
-3. **Make your Combat Roll:** All Characters determine their Combat Roll, and make their roll at the same time.
-4. **Outcome:** Using the Declarations as a guide, the Narrator will state what the outcome of the Combat Rolls are.  
-5. **Roleplay the Scene:** Using the Narrator's outcome the Characters will roleplay out the round of combat, and if the scene has not been concluded, another round of combat starts *(go back to step 1)*.
+#### Weapons and Armor
+
+Weapon damage is a combination of three elements, the damage modifer (made up of an Attribute and a number from 0-3), the damage type (blugeoning, slashing, or piercing), and the primary range (grapple, melee, thrown, ranged, artillery).  Weapons damage is denoted using the following format:
+
+[Attribute]+[damage modifer] [damage type] [primary range] *(example: INT+2 Slashing Melee)*
+
+*As the Narrator you may add additional damage types to your settings.*  
+
+Armor is is a combination of two elements, the Armor Points (AP) (with a value from 1-5), the damage type (blugeoning, slashing, or piercing).  When a Character receives an Injury Level, they may choose to spend AP to reduce the Injury Level by that amount (ie -1AP per -1 Injury Level).  If the damage type of the armor matches the damage type of the weapon causing the injury, any AP spent is instantly recovered.  AP spent is recovered at the begining of every scene.  Armor is denoted using the following format:
+
+[AP] [damage type] *(example: 4AP Piercing)*
+
+*Most settings will give Armor a trait value that gives the wearer a Dice Pool penalty when worn.  This is to denote the encombrance of the armour.*
 
 ### Investigations
 
-Investigations are one of the few encounter types that can be split across multiple *Scenes*.  Investigations are broken into two competing sides, ***Conspirators***, and ***Investigators***.  The Investigation is played out on an ***Investigation Grid***, and the outcome of the Investigation will determine how successful the ***Conspirators***, and ***Investigators*** are.
 
-#### Investigation Grid
-
-The Investigation grid is the "playing field" for the Investigation.  The center of the grid is the ***Conspirator***'s goal, and each ring out built up, or torn down as part of the Investigation.
-
-![Investigation Grid](/images/RtG-InvestigationGrid.png "Investigation Grid")
-
-#### Conspirators
-
-Conspirators are attempting to achieve the goal of the Investigation, while not disclosing the W5 (Who, what, when, where, why) on how they did it.  
-
-1. **Declare Actions:** The Conspirators declare their intended action to either progress towards the goal, or cover their tracks.  *Rules for Initiative as detailed in **Combat Encounters** may be used is needed.*
-2. **Make an Investigation Roll:** 3D6 + Attribute + Vocation + Skill/Specialization + Modifiers
-3. **Outcome:** The Narrator will move the Conspirators closer to the center of the *Investigation Grid*, or increase the CL for the step they are currently on.
-
-#### Investigators
-
-1. **Find a Clue:** The Narrator will present to the Investigators a clue to a Conspiracy.
-2. **Declare Actions:** The Investigators declare how they are going to uncover more of the Conspiracy.  *Rules for Initiative as detailed in **Combat Encounters** may be used is needed.*
-3. **Make an Investigation Roll:** 3D6 + Attribute + Vocation + Skill/Specialization + Modifiers
-4. **Outcome:** 
 
 ### Etiquette
 
+
+
 ### Barter
+
+
+
 
 ### Chase/Dogfight
 
