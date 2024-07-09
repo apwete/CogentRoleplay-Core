@@ -167,6 +167,15 @@ Armor is is a combination of two elements, the Armor Points (AP) (with a value f
 
 *Most settings will give Armor a trait value that gives the wearer a Dice Pool penalty when worn.  This is to denote the encumbrances of the armor.*
 
+#### Combat Roll CLs
+
+As a Narrator you must assign the CL for all Dice Rolls based on what works best for the Story, Setting, and the situation around the Dice Roll.  The following is a guide to help in that process.  
+
+* Each Weapon has a primary range.  For each combat range difference from the primary range increases the CL by +1 (example: using a melee weapon in grapple is +1CL, using an artillery in grapple is +4 CL).
+* Prone (ie laying down) targets are easier to hit with melee weapons, and harder to hit with ranged weapons.  Apply the following modifier to the CL based on the Weapon's primary range [-2 CL for Grapple, -1 CL for Melee, +1 CL for Ranged, and +2 CL for Artillery].
+* Moving targets are harder to hit.  Apply the following modifier to the CL for moving targets [+1 CL for walking, +2 CL for running, +3 CL for sprinting/dodging].
+* 
+
 ### Investigations
 
 
