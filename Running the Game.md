@@ -19,10 +19,10 @@ The role of the Narrator is to facilitate the flow of the Story.  You are there 
 <!-- Narrator Tools -->
 ### Actions
 
-An Action is initiatied by a Player and will likely result in their Character having to make a Dice Roll.  The following rules apply to Actions:
+An Action is initiated by a Player and will likely result in their Character having to make a Dice Roll.  The following rules apply to Actions:
 
 * If the Dice Pool for a Dice Roll is greater than the CL for the Action, the Action is successful.
-  * Narrative Failure does not make an Action unsuccessful, just costly, complicated, and/or with unforseen consequences.
+  * Narrative Failure does not make an Action unsuccessful, just costly, complicated, and/or with unforeseen consequences.
 * A Narrator must tell the Player if the Action is impossible (ie the Dice Pool is equal or smaller than the CL).
 * All Actions must be declared before a Dice Roll is performed.
   * Initiative is used to allow Characters to target another Character's Actions.
@@ -32,11 +32,11 @@ An Action is initiatied by a Player and will likely result in their Character ha
 
 Unlike other TTRPGs, Cogent Roleplay uses a reverse order Initiative.  This is because Characters can not change Actions after they are declared, and Characters can target another Character's declared Action as part of their Action.  There are four ways to determine a Character's Initiative score:
 
-1. **Attritional Initiative:** The Character is attempting to both endure the challenges they are facing, and are relying on musle memory to drive their Actions.
+1. **Attritional Initiative:** The Character is attempting to both endure the challenges they are facing, and are relying on muscle memory to drive their Actions.
    * These Characters use their STR score as their Initiative.
 2. **Reactive Initiative:** The Character is relying heavily on their senses to react to threats and drive their Actions.
    * These Characters use their RFL score as their Initiative.
-3. **Tactical Initiative:** The Character is analysing the situation, and devising strategies to counter their opponents.
+3. **Tactical Initiative:** The Character is analyzing the situation, and devising strategies to counter their opponents.
    * These Characters use their INT score as their Initiative.
 4. **Manipulative Initiative:** The Character is attempting to control the emotional state of their opponents in better to gain an advantage in the situation.
    * These Characters use their CHA score as their Initiative.
@@ -85,9 +85,37 @@ When a Character takes damage they are given injuries.  Injuries are broken into
 
 [Name] [injury level] [penalty] *(example: Deep slash, Lvl 3, -3D6)*
 
+| **Category** | **Injury Level** | **Penalty** | **Notes** |
+| --- | --- | --- | --- |
+| Trivial | 0 | -0D6 | Scrapes |
+| Trivial | 1 | -1D6 | Bruises |
+| Wounded | 2 | -2D6 | Minor Injury |
+| Wounded | 3 | -3D6 | Moderate Injury |
+| Trauma | 4 | -4D6 | Serious Injury |
+| Trauma | 5 | -5D6 | Dead |
+
+Anytime a Character is injured, they must check if they [succeed or fail](#narrative-success-and-failure) an Endurance skill check vs the total of all injury levels the Character has.  If they will automatically fail, they fall unconscious.
+
+> Bob the boxer has endured through 6 grueling rounds, and has now been hit with a devastating uppercut.  
+> Bob previously had 2 Level 1 injuries, 1 Level 2 injury, and now has received a Level 3 injury.  Bob has a total of 7 injury levels (1 + 1 + 2 + 3).
+> Bob's Endurance Dice Pool is 3D6 + 2D6(STR) + 2D6 (Endurance) or 7D6.  7D6 is not greater than 7CL, so Bob falls to the mat unconscious.
+
 #### Injury Category
 
-<!-- TODO -->
+There are three injury categories [Trivial, Wounded, and Trauma].  An injury is a Trivial injury if the injury level is 0 or 1, an injury is a Wound if the injury level is 2 or 3, and an injury a Traumatic injury if the injury level is 4 or greater.
+
+#### Healing
+
+There are three types of healing [Natural healing, Medical treatment, and Emergency Care].  Regardless of the type of healing, the CL for the healing check is always the total of all injury levels the patient (injured Character) has.  
+
+**Natural Healing:** Typically once per Chapter a Character may declare they are *Naturally Healing*.  The Character makes an Endurance skill check, with one of two outcomes:
+
+* **Narrative Success:** A Trivial injury is reduced by -1 (removing the injury if the Injury Level is less than 0) per Narrative Success.
+* **Narrative Failure:** A non-trivial injury is increased by +1 per Narrative Failure (the same injury can not be increase more than once).
+
+**Medical Treatment:** Medical treatment requires the use of a [Specialization](/Playing%20the%20Game.md#skills) and adequate medical supplies.  Typically a Character can attempt medical treatment on a patient (target Character) once per Chapter.  Narrative Success or Failure affects how long the medical treatment takes (with Narrative Failure increasing the number of days the Character needs treatment).  Medical Treatment reduces the highest non-traumatic injury by -1.
+
+**Emergency Care:** Unlike other methods of healing, emergency care can be used multiple times per Chapter on the same patient.  Each time a Character performs emergency care on a patient (target Character), they are making an injury permanent (ie sacrifice the limb to save the body).  Narrative Success reduces the injury level before it becomes permanent, Narrative Failure increases the injury level of the injury, but the Character may attempt another round of Emergency Care (or lose the patient).  Due to the high risk the patient may die, most emergency care is done as a [collaborative roll](/Playing%20the%20Game.md#assists-and-collaborations).
 
 ### Destiny Rolls
 
@@ -113,7 +141,7 @@ This section covers the various ways you can use the Narrator tools to run your 
 
 ### Combat Encounters
 
-Combat is when two or more Characters are attempting to use violence in an encounter.  Combat pimarity uses Initiative as the core mechanic.  Narrators should consider the additional components.
+Combat is when two or more Characters are attempting to use violence in an encounter.  Combat primarily uses Initiative as the core mechanic.  Narrators should consider the additional components.
 
 #### Combat Range
 
@@ -121,23 +149,23 @@ Combat Ranges are not absolute distances, but effective engagement ranges.  Ther
 
 * **Grapple:** When two or more Characters are in physical contact with each other.  Unless stated otherwise, weapons designed to be used at Thrown, Ranged, or Artillery range, can not be used in grapple range.
 * **Melee:** When two or more Characters can easily hit each other with a couple of steps (typically within the same room of a building).  
-* **Thrown:** The typcial distance that a Character can throw a rock, spear, or dart effectively (typically within 50 yards/meters).  
-* **Ranged:** The effective range of a non-thrown weapon (bow, firearm, sling, etc), where distinguishing features can still be made out (typcially within 100 yards/meters).  At this range and beyond, melee and grapple weapons can not be used.
-* **Artillery:** Any distance beyond Ranged range is considered Artillery.  Weapons that are effective at this range typcially use spotters (Assist Action), technology (scopes), or magic (scrying) in order to lock onto a target and hit them.
+* **Thrown:** The typically distance that a Character can throw a rock, spear, or dart effectively (typically within 50 yards/meters).  
+* **Ranged:** The effective range of a non-thrown weapon (bow, firearm, sling, etc), where distinguishing features can still be made out (typically within 100 yards/meters).  At this range and beyond, melee and grapple weapons can not be used.
+* **Artillery:** Any distance beyond Ranged range is considered Artillery.  Weapons that are effective at this range typically use spotters (Assist Action), technology (scopes), or magic (scrying) in order to lock onto a target and hit them.
 
 #### Weapons and Armor
 
-Weapon damage is a combination of three elements, the damage modifer (made up of an Attribute and a number from 0-3), the damage type (blugeoning, slashing, or piercing), and the primary range (grapple, melee, thrown, ranged, artillery).  Weapons damage is denoted using the following format:
+Weapon damage is a combination of three elements, the damage modifier (made up of an Attribute and a number from 0-3), the damage type (bludgeoning, slashing, or piercing), and the primary range (grapple, melee, thrown, ranged, artillery).  Weapons damage is denoted using the following format:
 
-[Attribute]+[damage modifer] [damage type] [primary range] *(example: INT+2 Slashing Melee)*
+[Attribute]+[damage modifier] [damage type] [primary range] *(example: INT+2 Slashing Melee)*
 
 *As the Narrator you may add additional damage types to your settings.*  
 
-Armor is is a combination of two elements, the Armor Points (AP) (with a value from 1-5), the damage type (blugeoning, slashing, or piercing).  When a Character receives an Injury Level, they may choose to spend AP to reduce the Injury Level by that amount (ie -1AP per -1 Injury Level).  If the damage type of the armor matches the damage type of the weapon causing the injury, any AP spent is instantly recovered.  AP spent is recovered at the begining of every scene.  Armor is denoted using the following format:
+Armor is is a combination of two elements, the Armor Points (AP) (with a value from 1-5), the damage type (bludgeoning, slashing, or piercing).  When a Character receives an Injury Level, they may choose to spend AP to reduce the Injury Level by that amount (ie -1AP per -1 Injury Level).  If the damage type of the armor matches the damage type of the weapon causing the injury, any AP spent is instantly recovered.  AP spent is recovered at the beginning of every scene.  Armor is denoted using the following format:
 
 [AP] [damage type] *(example: 4AP Piercing)*
 
-*Most settings will give Armor a trait value that gives the wearer a Dice Pool penalty when worn.  This is to denote the encombrance of the armour.*
+*Most settings will give Armor a trait value that gives the wearer a Dice Pool penalty when worn.  This is to denote the encumbrances of the armor.*
 
 ### Investigations
 
