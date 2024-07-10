@@ -171,10 +171,16 @@ Armor is is a combination of two elements, the Armor Points (AP) (with a value f
 
 As a Narrator you must assign the CL for all Dice Rolls based on what works best for the Story, Setting, and the situation around the Dice Roll.  The following is a guide to help in that process.  
 
-* Each Weapon has a primary range.  For each combat range difference from the primary range increases the CL by +1 (example: using a melee weapon in grapple is +1CL, using an artillery in grapple is +4 CL).
-* Prone (ie laying down) targets are easier to hit with melee weapons, and harder to hit with ranged weapons.  Apply the following modifier to the CL based on the Weapon's primary range [-2 CL for Grapple, -1 CL for Melee, +1 CL for Ranged, and +2 CL for Artillery].
-* Moving targets are harder to hit.  Apply the following modifier to the CL for moving targets [+1 CL for walking, +2 CL for running, +3 CL for sprinting/dodging].
-* 
+* **Combat Range VS Primary Range:** Compare the combat range of the target with the primary range of the weapon.  For each range difference apply a +1CL penalty.
+  * **+0 CL:** Combat Range matches Primary Range
+  * **+1 CL:** Grapple to Melee, Melee to Grapple or Thrown, Thrown to Melee or Ranged, Ranged to Thrown or Artillery, or Artillery to Ranged
+  * **+2 CL:** Grapple to Thrown, Melee to Ranged, Thrown to Grapple or Artillery, Ranged to Melee, or Artillery to Thrown
+  * **+3 CL:** Grapple to Ranged, Melee to Artillery, Ranged to Grapple, or Artillery to Melee
+  * **+4 CL:** Grapple to Artillery, or Artillery to Grapple
+* **Combat Modifiers:** Different combat maneuvers, field conditions, or positions offer advantages or disadvantages.
+  * **Attacking while Prone (based off Primary Range) (laying down):** Grapple (+2 CL), Melee (+1 CL), Ranged (-1 CL), Artillery (-2 CL)
+  * **Attacking someone that is Prone (based off of Combat Range):** Grapple (-2 CL), Melee (-1 CL), Thrown (+1 CL), Ranged (+2 CL), Artillery (+3 CL)
+  * **Attacking from a superior position (ie higher ground):** This will be a -1 to -3 CL advantage (Narrators discretion).  Typically it will be a lower bonus. 
 
 ### Investigations
 
