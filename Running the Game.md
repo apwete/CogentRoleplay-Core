@@ -181,6 +181,7 @@ As a Narrator you must assign the CL for all Dice Rolls based on what works best
   * **Attacking while Prone (based off Primary Range) (laying down):** Grapple (+2 CL), Melee (+1 CL), Ranged (-1 CL), Artillery (-2 CL)
   * **Attacking someone that is Prone (based off of Combat Range):** Grapple (-2 CL), Melee (-1 CL), Thrown (+1 CL), Ranged (+2 CL), Artillery (+3 CL)
   * **Attacking from a superior position (ie higher ground):** This will be a -1 to -3 CL advantage (Narrators discretion).  Typically it will be a lower bonus. 
+  * **Weapon Traits:** Some weapons will have traits that provide a benefit or penalty to a CL.  Use the weapon trait rules as applicable.
 
 ### Investigations
 
