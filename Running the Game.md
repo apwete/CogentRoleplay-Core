@@ -182,21 +182,46 @@ As a Narrator you must assign the CL for all Dice Rolls based on what works best
   * **Attacking someone that is Prone (based off of Combat Range):** Grapple (-2 CL), Melee (-1 CL), Thrown (+1 CL), Ranged (+2 CL), Artillery (+3 CL)
   * **Attacking from a superior position (ie higher ground):** This will be a -1 to -3 CL advantage (Narrators discretion).  Typically it will be a lower bonus. 
   * **Weapon Traits:** Some weapons will have traits that provide a benefit or penalty to a CL.  Use the weapon trait rules as applicable.
+* **Movement:** The faster a your target moves, the harder it is to hit them.  Narrators should modify these penalties if the target is moving towards or away from the Character.
+  * **Walking Speed:** +1 CL
+  * **Running Speed:** +2 CL
+  * **Dodging/Sprint Speed:** +3 CL
 
 ### Investigations
 
+Investigations are when two groups of people are attempting to out smart each other while achieving an ultimate objective.  Investigations are broken into two groups; Investigators and Conspirators.
 
+#### Investigators
+
+The goal of the Investigators is to gather the evidence necessary to discover the Conspirators goal, and to use that evidence to either stop the Conspirators from achieving their goal, or making sure they are tied to the conspiracy (served justice).
+
+#### Conspirators
+
+The goal of the Conspirators is to set a goal and execute a plan to both achieve that goal, and get away with it.
 
 ### Etiquette
 
-
+Similar to [Combat Encounters](#combat-encounters), Etiquette encounters have two or more opposed groups of Characters that are attempting to harm each other.  In Etiquette encounters the goal is not to physically harm your opponents, but to marginalize and socially isolate them instead.
 
 ### Barter
 
+A Barter encounter is any situation where two or more Characters are attempting to either buy or sell a product or service.  In most situations commerce follows the standard rules for Commerce Points.  Compare the IV (Item Value (ie cost)) of the product/service with the CP (Commerce Points) of the Character.
 
+| **IV-CP** | **Buying** | **Selling** |
+| --- | --- | --- |
+| >0 | n/a | +(IV-CP) CP |
+| 0 | -2 CP | -0 CP |
+| -1 | -1 CP | -0 CP |
+| -2 | -0 CP | -0 CP |
 
+*Example:*
+> Kelly is buying a sword from a merchant.  Both Kelly has 4CP and the merchant has 2CP.  The sword has a cost of 3 IV.<br/>
+> When Kelly purchases the sword from the merchant, the IV-CP is -1 (3-4) so Kelly's CP (buying) is reduced by -1 CP.  Kelly now has 3CP.
+> The merchant has an IV-CP of +1 (3-2) so the merchant's CP (selling) is increased by +(IV-CP)CP or +1 CP.  The merchant has 3CP.
 
 ### Chase/Dogfight
+
+Chases and Dogfights are specialized versions of [Combat Encounters](#combat-encounters) where the distance between the two opponents.  
 
 ## World-building & Adaptations
 
