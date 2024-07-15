@@ -225,3 +225,12 @@ Chases and Dogfights are specialized versions of [Combat Encounters](#combat-enc
 
 ## World-building & Adaptations
 
+The following section are tools for taking a setting (existing or brand new), and adapting Cogent to the setting.  These tools will provide guidelines on how to created magic system, lists of equipment (weapons, armor, tools etc), and general guidelines to migrate existing rule sets to Cogent.  This section, more than any other section or chapter of the rules, must follow the first rule, and everything listed in this section must serve the Story first and foremost.  These are guildlines, not rules.
+
+### Magic Systems
+
+Within most stories, magic is roughly divided into two broad categories; Hard Magic systems, and Soft Magic systems.  When you design your setting you must keep these in mind.  
+
+* **Softw Magic:** Magic serves a thematic and narrative purpose within the story.  A defining characteristic of soft magic systems is that how the magic operates does not matter.  Characters use magic in an organic and natural way as per their Character, not based on the rules imposed on them.  An example of this would be that Unicorns have unlimited powers to remove corruption, poison, and toxins, but would never be able to cause them to any person.  Here are the guidelines to creating a soft magic system.
+  1. **Magic should be thematic:** How a Character uses magic should serve the narrative feeling of the Character (ie the unicorn).
+  2. **Magic should be used naratively:** Magic shouldn't be used to hand wave away problems, but instead as that last ditch effort to serve the story (ie Gandalf only uses the exactly right spell at the exactly right time when the situation is most dire, not when it is convenient).
