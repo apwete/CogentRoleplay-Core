@@ -10,7 +10,7 @@ Every Story has a beginning, and every project has its founders.  **Cogent Rolep
 
 The **Cogent Community Project** is a volunteer run organization that lives and dies by the hard work and dedication of our volunteers.  We, the project can not thank everyone who has contributed enough for every second you have given to this passion project.  We have created a community unlike any other in the TTRPG industry, and you should be proud.  
 
-While there are many members of the Cogent Community Project, we would like to recognize the following members and their contributions to this project:
+While there are many members of the Cogent Community Project, we would like to recognize the following members and their contributions to this project:<br/>
 Tom Boxall (TBRMInsanity), Jack Danna (Javk), Gabe (Martian Muckraker), Margo Margan (VeryBusyArcher), (Rorschach), (Querk), (RPBCACUEAIIBIH), (Ghyro).
 
 
