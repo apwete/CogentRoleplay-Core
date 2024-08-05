@@ -16,11 +16,12 @@ While there are many members of the Cogent Community Project, we would like to r
 (RPBCACUEAIIBIH), 
 Gabriel Relich (Martian Muckraker), 
 Jack Danna (Javk), 
+Jamapa Khan (Grenadius Khan),
 Margo Margan (VeryBusyArcher), 
 Tom Boxall (TBRMInsanity), 
 Tomothy Crowley (Rorschach), 
 Yusuke Shinoko, 
-
+<!-- (Querk),  -->
 
 ### Thank you to the Community
 
